@@ -1,0 +1,4 @@
+once you created the .ui file from qt designer then open the cmd in the directory and type the command below 
+by the name of the file (here basic_button.ui)
+
+pyuic5 -x basic_button.ui -o basic_button.py

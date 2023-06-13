@@ -1,0 +1,9 @@
+import cv2
+import os
+
+
+images_path ="E:\\Coding\\Python\\PROJECTS\\cityhawk\\image_stitching\\bangalore\\bhubaneswar_destress\\Distress_cropped_images\\"
+img_list = os.listdir(images_path)
+
+for i in img_list:
+    print(i)

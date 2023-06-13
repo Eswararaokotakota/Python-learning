@@ -1,0 +1,3 @@
+Name: Eswararaooo
+Phone number: 67234234234
+Query: added __name__ == __main__ for better understanding

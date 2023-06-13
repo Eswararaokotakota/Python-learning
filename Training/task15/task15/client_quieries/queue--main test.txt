@@ -1,0 +1,3 @@
+Name: main test
+Phone number: 78234234
+Query: testing __main__ with adding global queues in __main__ function

@@ -1,0 +1,8 @@
+akjfafb
+dvjlsdv
+sdvkjsvf
+jksdvnsdv
+asfoisdjsd
+ejfbksdg
+sdgksdnfg
+python -u "e:\Coding\Python\Tasks\task_by_naveen.py"

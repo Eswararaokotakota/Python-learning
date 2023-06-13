@@ -1,0 +1,9 @@
+#take a string  and print it in reverse using for loop. and update the variable with the reversed 
+#string
+#suppose 
+#k = eswar
+#k = rawse
+
+string = "eswar"
+for x in string:
+    print(string,::-1)

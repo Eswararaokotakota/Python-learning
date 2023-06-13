@@ -1,0 +1,1 @@
+writer.writerows([data] for data in data1)

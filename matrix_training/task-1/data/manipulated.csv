@@ -1,0 +1,3 @@
+ImageName,"Xmin,Ymin,Xmax,Ymax",DestressClass,BoundingBoxType
+2022_01_07_12_45_40_195290_Distress_cam1.jpg,"(434, 0, 1562, 1056)",Bleeding,Rectangle
+2022_01_07_12_45_40_195290_Distress_cam2.jpg,"(434, 146, 1562, 1536)",Bleeding,Rectangle

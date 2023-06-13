@@ -1,0 +1,16 @@
+-----done-----1.	Create a CSV File[Headers:Age,Branch,Date of Joining,Mobile Number] in python.Insert 1000 records into the CSV File. Create  dummy data using random func
+-----done-----2.	Read Records from Above CSV File whose age is Greater than 24 and <30 using pandas
+3.	Read Name,Age,Branch,Date of Joining,Mobile Number from Keyboard and write them into XML file.
+4.	Read Name,Age,Branch,Date of Joining,Mobile Number from above CSV file[From Question 1] and write them into XML file.
+5.	Read data from XML files and write them into a  CSV File
+6.	Create two folders X and Y,insert 10000 images each of size 1.5MB into X folder and Calculate transfer speed to copy Images from X to Y.[Speed in MB/s].
+-----done-----7.	Read an Image using OpenCV.
+8.	Read and Concatenate two images horizontally and Vertically using OpenCV.
+9.	Read an image using OpenCV, and Convert pixel value(0,255,0) to (255,255,255).
+10.	Create 4 images with red,black,green and blue background using numpy and stitch all images vertically and horizontally using numpy
+11.	Write a Script to store and display System Time on the OpenCV Window,add a key(X-from keyboard) to close the Window.
+12.	Read above images in OpenCV and Store     as a Single Video File.
+13.	Read image using openCV,add Black border to the image  and Display the both the images on Screen.
+14.	Write a script to plot bar graph,pie chart using matplotlib (Data from Question 1------> Number of  students vs Branch).
+15.	Write a script to plot multiple lines [Data ---->Random x and y values]
+

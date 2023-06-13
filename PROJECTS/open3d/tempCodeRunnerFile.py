@@ -1,0 +1,1 @@
+py = np.asarray(pcd.points)
